@@ -5,7 +5,7 @@ import Create from './pages/Create';
 import LearningUseState from './pages/LearningUseState';
 import SinglePage from './pages/SinglePage';
 import Edit from "./pages/Edit";
-import Blog from './pages/blog';
+import Blog from './pages/Blog';
 
 
 function App() {
